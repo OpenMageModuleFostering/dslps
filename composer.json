@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/DSLPS",
+    "name": "OpenMageModuleFostering\/DSLPS",
     "type": "magento-module",
     "license": "GPL",
     "homepage": "",
     "description": "Filter price using slider",
     "authors": [
-    {
-        "name": "Daffodil Software",
-        "email": "ashish.mittal@daffodilsw.com"
-    }
-],
+        {
+            "name": "Daffodil Software",
+            "email": "ashish.mittal@daffodilsw.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
